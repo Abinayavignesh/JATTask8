@@ -19,7 +19,7 @@ public class Compare {
 		}
 		else
 		{
-			System.out.println("Sum of c+d is greater"+ Second);
+			System.out.println("Sum of c+d is greater"+ second);
 		}
 
 
